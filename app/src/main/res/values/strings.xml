@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dependency_Injection</string>
+    <string name="String2">String2 Dependency Injection</string>
+</resources>
